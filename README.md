@@ -1,1 +1,1 @@
-# JavaStandardEdition
+# Java Standard Edition
